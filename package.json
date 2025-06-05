@@ -1,0 +1,17 @@
+{
+  "name": "task-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@doist/todoist-api-typescript": "^4.0.4",
+    "dotenv": "^16.5.0"
+  }
+}
